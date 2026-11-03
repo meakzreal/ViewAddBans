@@ -1,0 +1,6 @@
+
+========== BAN RECORD ==========
+Name: TESTNAME
+Steam ID: TESTSTEAMID
+Notes: TESTNOTES
+=====================================
