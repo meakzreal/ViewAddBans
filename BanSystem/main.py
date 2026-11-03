@@ -12,7 +12,6 @@ import os
 import time
 import AddBans
 import ViewBans
-from datetime import datetime
 
 
 # Terminal Colours
