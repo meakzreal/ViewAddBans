@@ -10,7 +10,11 @@ A simple Python project for recording and viewing player ban information.
 - View saved ban records.
 - Stores records in `banlogs.txt`.
 - Coloured terminal interface.
-
+  
+### Requirements
+- Python 3.x
+- No additional libraries required.
+  
 ### Files
 - `main.py` – Main menu.
 - `AddBans.py` – Adds new ban records.
@@ -30,4 +34,4 @@ Select 2 to view saved bans.
 Select 3 to exit.
 
 ### Notes
-Still relatively new to Python, so this is a learning project. Currently, editing and removing records requires manually changing the `.txt` file because idk how to yet sorry!.
+I'm still relatively new to Python, so this is a learning project. Editing and removing records currently requires manually modifying banlogs.txt.
