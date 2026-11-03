@@ -9,7 +9,6 @@
 
 import os
 import time
-import json
 import AddBans
 import ViewBans
 from datetime import datetime
