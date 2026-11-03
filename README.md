@@ -17,5 +17,17 @@ A simple Python project for recording and viewing player ban information.
 - `ViewBans.py` – Displays saved bans.
 - `banlogs.txt` – Stores ban information.
 
+### How To Use
+
+Run main.py.
+
+Select 1 to add a player ban.
+
+Enter the player's name, Steam ID and notes.
+
+Select 2 to view saved bans.
+
+Select 3 to exit.
+
 ### Notes
 Still relatively new to Python, so this is a learning project. Currently, editing and removing records requires manually changing the `.txt` file because idk how to yet sorry!.
