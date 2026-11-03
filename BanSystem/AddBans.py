@@ -43,6 +43,3 @@ def start_up_screen_bans():
     time.sleep(1)
     clear_command()
     ask_for_ban()
-    
-    
-
